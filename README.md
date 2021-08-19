@@ -24,7 +24,7 @@
 
 - 定时调度
 
-  目前定时调度设置的是 `12 */1 * * *` 每 1 个小时的第 12 分自动触发，可以在 `.github\workflows\autoapi.yml` 自行修改
+  目前定时调度设置的是 `12 */3 * * *` 每 3 个小时的第 12 分自动触发，可以在 `.github\workflows\autoapi.yml` 自行修改
 
 ## Notice
 
