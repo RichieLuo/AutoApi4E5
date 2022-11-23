@@ -7,7 +7,7 @@ User.Read.All、User.ReadWrite.All
 Directory.Read.All、Directory.ReadWrite.All
 Mail.Read、Mail.ReadWrite、MailboxSettings.Read
 MailboxSettings.ReadWrite
-注册后一定要再点代表 xxx 授予管理员同意，否则 outlook api 无法调用
+注册后一定要再点代表 xxx 授予管理员同意，否则 outlook api 无法调用 
 """
 import argparse
 import json
